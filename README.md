@@ -1,13 +1,8 @@
 # Sentiment analysis from MLOps paradigm
 
-![benchmark](https://github.com/Jithsaavvy/Sentiment-analysis-from-MLOps-paradigm/workflows/Test%20and%20benchmark%20models/badge.svg)
-![deploy](https://github.com/Jithsaavvy/Sentiment-analysis-from-MLOps-paradigm/workflows/Deploy%20to%20sagemaker/badge.svg)
 
 This project promulgates an **automated end-to-end ML pipeline** that trains a **bi-directional LSTM** network for sentiment analysis task, **tracks** experiments, **pushes** trained models to **model registry**, benchmark them by means of **model testing** and **evaluation**, pushes the best model into production followed by **dockerizing** the production model artifacts into a deployable image and **deploys** the same into cloud instance via **CI/CD**. 
 
-## Author
-
-- [@Jithin Sasikumar](https://www.github.com/Jithsaavvy)
 
 ## Languages and Tools
 
